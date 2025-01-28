@@ -41,7 +41,7 @@ UPLOAD_DIR = "uploaded_files"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
 # Streamlit UI
-st.title("Odyssey Login and File Upload System")
+st.title("Login and Start your journey with Odyssey")
 
 menu = ["Login", "Register"]
 choice = st.sidebar.selectbox("Menu", menu)
