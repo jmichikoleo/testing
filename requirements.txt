@@ -1,0 +1,9 @@
+﻿streamlit
+pandas
+Matplotlib
+Plotly
+Altair
+yfinance
+datetime
+requests
+streamlit-option-menu
