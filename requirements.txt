@@ -7,3 +7,5 @@ yfinance
 datetime
 requests
 streamlit-option-menu
+sqlite3
+bcrypt
